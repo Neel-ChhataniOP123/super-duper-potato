@@ -1,0 +1,16 @@
+body{
+	background-image: url("");
+    background-position: center;
+    background-size: cover;
+	background-color: crimson;
+}
+#canvas
+{
+	border-width:10px;
+	border-style:ridge;
+}
+
+h1,h4
+{
+	color: white !important;
+}
